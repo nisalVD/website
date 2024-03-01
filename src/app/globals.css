@@ -210,3 +210,6 @@ pre.shiki div.highlight {
   background-color: #27272a;
 }
 
+.cm-theme {
+  height: 100%;
+}
